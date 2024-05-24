@@ -1,0 +1,122 @@
+body{
+    height: 100vh;
+    background-color: #212121;
+}
+.head{
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 130px;
+}
+.head h1{
+    color: #fff;
+}
+.head img{
+    margin-left: 85px;
+}
+/* /////////////////////////////////// */
+
+.tana{
+    width: 820px;
+    height: 270px;
+    background-color: #212121;
+    margin: 0 auto;
+    display: flex;
+}
+
+.box1{
+    width: 380px;
+    height: 120px;
+    background-color: #212121;
+    border-radius: 20px;
+    border: 2px solid grey;
+    /* margin-top: 20px; */
+}
+.box1 h3{
+    font-family: arial;
+    color: #fff;
+    padding-left: 15px;
+}
+.box1 h4{
+    font-family: arial;
+    color: grey;
+    padding-left: 15px;
+}
+.box2{
+    width: 380px;
+    height: 120px;
+    background-color: #212121;
+    border-radius: 20px;
+    border: 2px solid grey;
+    margin-top: 20px;
+
+}
+.box2 h3{
+    font-family: arial;
+    color: #fff;
+    padding-left: 15px;
+}
+.box2 h4{
+    font-family: arial;
+    color: grey;
+    padding-left: 15px;
+}
+/* /////////////////////////////////////////////// */
+
+.box3{
+    width: 380px;
+    height: 120px;
+    background-color: #212121;
+    border-radius: 20px;
+    border: 2px solid grey;
+    /* margin-top: 20px; */
+    margin-left: 30px;
+}
+.box3 h3{
+    font-family: arial;
+    color: #fff;
+    padding-left: 15px;
+}
+.box3 h4{
+    font-family: arial;
+    color: grey;
+    padding-left: 15px;
+}
+.box4{
+    width: 380px;
+    height: 120px;
+    background-color: #212121;
+    border-radius: 20px;
+    border: 2px solid grey;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.box4 h3{
+    font-family: arial;
+    color: #fff;
+    padding-left: 15px;
+}
+.box4 h4{
+    font-family: arial;
+    color: grey;
+    padding-left: 15px;
+}
+
+/* ///////////////////////////////////////////////// */
+
+input{
+    width: 790px;
+    height: 70px;
+    background-color: #212121;
+    margin-left: 340px;
+    border: 2px solid grey;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+input::placeholder{
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+@media screen {
+}
